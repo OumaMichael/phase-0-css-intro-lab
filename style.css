@@ -12,7 +12,7 @@ div {
   padding: 30px;
 }
 
-/* If you intend to style <p> elements within the div, use this descendant selector: */
+/* Uncomment and use this if you want to style <p> elements inside <div> elements */
 /* div p {
   color: black;
 } */
